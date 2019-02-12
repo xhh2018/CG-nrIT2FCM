@@ -21,3 +21,5 @@ Everything was done in Matlab.
 2. Runing "MainT2fcm.m" in matlab,you can obtain the results of m-IT2FCM and s-IT2FCM method.
 
 3. Runing "MainT2fcmnr.m" in matlab,you can obtain the results of nr-IT2FCM method.
+
+4. When you run the program "MainFGFCM.m" in MATLAB, you can get the result of FGFCM method.
